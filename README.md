@@ -40,11 +40,11 @@ The approach is the same every time. Take one simple idea, implement it cleanly,
 
 ### SleepCYD
 
-<a href="https://github.com/opensourcera/SleepCYD/blob/main/docs/videos/sleepcyd-demo.mp4"><img src="https://raw.githubusercontent.com/opensourcera/SleepCYD/main/docs/videos/sleepcyd-demo-poster.jpg" alt="SleepCYD demo video on the Cheap Yellow Display" width="480"></a>
+<a href="https://github.com/opensourcera/SleepCYD"><img src="https://raw.githubusercontent.com/opensourcera/SleepCYD/main/docs/videos/sleepcyd-demo.gif" alt="SleepCYD demo on the Cheap Yellow Display" width="480"></a>
 
 **SleepCYD** turns a 10 dollar ESP32 touch-screen board, the Cheap Yellow Display, into a pocket sleep analyzer for the WatchPAT ONE sensor. It records the night over Bluetooth to a microSD card, analyses it on the board in the morning, and shows the report on its own screen, on a phone through a QR code, or on a Nidra site. No PC, no phone app, no cloud account.
 
-[Source](https://github.com/opensourcera/SleepCYD) · [Demo video](https://github.com/opensourcera/SleepCYD/blob/main/docs/videos/sleepcyd-demo.mp4) · [Issues](https://github.com/opensourcera/SleepCYD/issues)
+[Source](https://github.com/opensourcera/SleepCYD) · [Demo video, MP4](https://github.com/opensourcera/SleepCYD/raw/main/docs/videos/sleepcyd-demo.mp4) · [Issues](https://github.com/opensourcera/SleepCYD/issues)
 
 ### Raisin
 
