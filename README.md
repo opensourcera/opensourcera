@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/opensourcera"><img src="assets/bee-logo.png" width="150" alt="opensourcera bee logo"/></a>
+<a href="https://github.com/opensourcera"><img src="assets/logo.png" width="160" alt="opensourcera logo"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=opensourcera&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Zen%20of%20open%20source%20%E2%80%A2%20Believe%20in%20freedom%20%E2%80%A2%20Simple%20idea%2C%20instant%20release&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="header banner"/>
 
