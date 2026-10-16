@@ -91,10 +91,6 @@ Notepad, Word, Chrome, VS Code, WhatsApp — with no IME and no per-app configur
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=opensourcera&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=cbd5e1&line=38bdf8&point=f59e0b&area=true&area_color=1e3a8a" width="100%" alt="Contribution graph"/>
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opensourcera/opensourcera/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/opensourcera/opensourcera/output/github-snake.svg"/>
