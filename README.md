@@ -32,11 +32,21 @@ The approach is the same every time. Take one simple idea, implement it cleanly,
 
 | Area | Examples | Stack |
 |---|---|---|
-| Embedded and microcontroller code | Firmware, sensor and control utilities, bare-metal helpers | C, C++, Arduino |
+| Embedded and microcontroller code | SleepCYD, firmware, sensor and control utilities | C, C++, ESP32, Arduino |
 | Keyboard and input tools | System-wide input utilities for Windows, such as Raisin | C#, .NET 8, Win32 API |
 | Financial tools | Simple, transparent tools for money, markets and bookkeeping | C#, Python, JavaScript |
 
-## Featured project
+## Featured projects
+
+### SleepCYD
+
+<a href="https://github.com/opensourcera/SleepCYD/blob/main/docs/videos/sleepcyd-demo.mp4"><img src="https://raw.githubusercontent.com/opensourcera/SleepCYD/main/docs/videos/sleepcyd-demo-poster.jpg" alt="SleepCYD demo video on the Cheap Yellow Display" width="480"></a>
+
+**SleepCYD** turns a 10 dollar ESP32 touch-screen board, the Cheap Yellow Display, into a pocket sleep analyzer for the WatchPAT ONE sensor. It records the night over Bluetooth to a microSD card, analyses it on the board in the morning, and shows the report on its own screen, on a phone through a QR code, or on a Nidra site. No PC, no phone app, no cloud account.
+
+[Source](https://github.com/opensourcera/SleepCYD) · [Demo video](https://github.com/opensourcera/SleepCYD/blob/main/docs/videos/sleepcyd-demo.mp4) · [Issues](https://github.com/opensourcera/SleepCYD/issues)
+
+### Raisin
 
 <a href="https://github.com/opensourcera/raisin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=opensourcera&repo=raisin&theme=default&hide_border=true" alt="Raisin repository card"/></a>
 
