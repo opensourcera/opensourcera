@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://github.com/opensourcera"><img src="assets/bee-logo.png" width="150" alt="opensourcera bee logo"/></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=opensourcera&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Zen%20of%20open%20source%20%E2%80%A2%20Believe%20in%20freedom%20%E2%80%A2%20Simple%20idea%2C%20instant%20release&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="header banner"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+opensourcera+%F0%9F%91%8B;The+Zen+of+open+source+software;Believe+in+freedom.;Simple+idea+%E2%86%92+instant+release.;From+tiny+microcontroller+code...;...to+keyboard+tools+and+financial+tools" alt="typing intro"/></a>
