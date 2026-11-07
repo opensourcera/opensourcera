@@ -33,10 +33,19 @@ The approach is the same every time. Take one simple idea, implement it cleanly,
 | Area | Examples | Stack |
 |---|---|---|
 | Embedded and microcontroller code | SleepCYD, firmware, sensor and control utilities | C, C++, ESP32, Arduino |
+| Mesh and radio | RainaCore, MeshOmit | C, C++, ESP32, LoRa, Python |
 | Keyboard and input tools | System-wide input utilities for Windows, such as Raisin | C#, .NET 8, Win32 API |
 | Financial tools | Simple, transparent tools for money, markets and bookkeeping | C#, Python, JavaScript |
 
 ## Featured projects
+
+### RainaCore
+
+<a href="https://github.com/opensourcera/RainaCore"><img src="https://raw.githubusercontent.com/opensourcera/RainaCore/main/docs/screenshots/map.jpg" alt="RainaCore map screen on the Seeed Wio Tracker L2 Pro" width="480"></a>
+
+**RainaCore** is open-source touch firmware for the Seeed Wio Tracker L2 Pro, with no phone needed: chat, contacts, repeaters, channels and an offline map on its 320×240 screen. Compatible with MeshCore, but not connected to MeshCore development. Now in beta.
+
+[Source](https://github.com/opensourcera/RainaCore) · [Install](https://github.com/opensourcera/RainaCore#install) · [Issues](https://github.com/opensourcera/RainaCore/issues)
 
 ### SleepCYD
 
@@ -53,6 +62,14 @@ The approach is the same every time. Take one simple idea, implement it cleanly,
 **Raisin** is a system-wide keyboard tool for Windows. It intercepts keystrokes at the OS level and rewrites them for any application, with no input method editor and no per-application setup. Built on .NET 8 with a lock-free processing pipeline, a plugin SDK and a 60,000 word dictionary. MIT licensed.
 
 [Source](https://github.com/opensourcera/raisin) · [Download](https://www.unibijoy.com) · [Issues](https://github.com/opensourcera/raisin/issues)
+
+### More projects
+
+| Project | What it does |
+|---|---|
+| [MeshOmit](https://github.com/opensourcera/MeshOmit) | IRC-style terminal client and test-reply bot for a MeshCore companion node, over Bluetooth, serial or TCP |
+| [windira](https://github.com/opensourcera/windira) | Gives identical devices on Windows, such as two of the same webcam, names you can tell apart, with no reboot |
+| [Raina Clock](https://github.com/opensourcera/Raina-Clock) | Bedside alarm clock for the ESP32 Cheap Yellow Display, with named alarms, weather messages and a to-do list |
 
 ## Technologies
 
